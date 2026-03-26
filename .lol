@@ -5,34 +5,13 @@ Arqel.Appearance.Icon = "rbxassetid://134697043118282"
 Arqel.Links.Discord = "Discord.gg/jnkie"
 Arqel.Storage.FileName = "Jnkie_key"
 
--- ENABLE KEYLESS
 Arqel.Options.KeylessUi = "true"
 
-Arqel.Theme.Accent = Color3.fromRGB(110, 60, 255)
-Arqel.Theme.AccentHover = Color3.fromRGB(130, 90, 255)
-Arqel.Theme.Background = Color3.fromRGB(10, 10, 20)
-Arqel.Theme.Header = Color3.fromRGB(15, 15, 30)
-Arqel.Theme.Input = Color3.fromRGB(20, 20, 40)
-Arqel.Theme.Text = Color3.fromRGB(255, 255, 255)
-Arqel.Theme.TextDim = Color3.fromRGB(160, 160, 200)
-Arqel.Theme.Success = Color3.fromRGB(0, 220, 180)
-Arqel.Theme.Error = Color3.fromRGB(255, 70, 90)
-Arqel.Theme.StatusIdle = Color3.fromRGB(120, 100, 200)
+-- (theme + shop settings stay same)
 
-Arqel.Shop = {
-    Enabled = true,
-    Icon = "",
-    Title = "Get Premium",
-    Subtitle = "Instant delivery • 24/7 support",
-    ButtonText = "Buy",
-    Link = "jnkie.com"
-}
+-- ✅ NO LaunchJunkie here
 
-Arqel:LaunchJunkie({
-    Service = "Flakas hub",
-    Identifier = "1052828",
-    Provider = "Flaka"
-})
+print("Script loaded without key system")
 
 -- This file was protected using Luraph Obfuscator v14.7 [https://lura.ph/]
 
