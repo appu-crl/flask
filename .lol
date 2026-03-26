@@ -1,15 +1,3 @@
-local Arqel = loadstring(game:HttpGet("https://raw.githubusercontent.com/Cobruhehe/expert-octo-doodle/refs/heads/main/ArqelUi.luau"))()
-
-Arqel.Appearance.Title = "Junkie"
-Arqel.Appearance.Icon = "rbxassetid://134697043118282"
-Arqel.Links.Discord = "Discord.gg/jnkie"
-Arqel.Storage.FileName = "Jnkie_key"
-
-Arqel.Options.KeylessUi = "true"
-
--- (theme + shop settings stay same)
-
--- ✅ NO LaunchJunkie here
 
 print("Script loaded without key system")
 
